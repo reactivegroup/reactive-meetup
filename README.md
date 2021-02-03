@@ -16,6 +16,6 @@ Reactive Group Meetup.
 
 ### 2021-02-04
 
-[云原生的Java与Reactive-技术路线](./202102/slides/云原生时代的Java与Reactive-技术路线-Kevin.pptx)
+[云原生时代的Java与Reactive-技术路线](./202102/slides/云原生时代的Java与Reactive-技术路线-Kevin.pptx)
 
 [gRPC系列简介](https://github.com/reactivegroup/grpc-example)
