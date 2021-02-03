@@ -6,7 +6,7 @@ Reactive Group Meetup.
 
 下期预告：
 
-下棋Reactive Meetup将会在年后在上海举办，大家一起期待！
+下期Reactive Meetup将会在年后在上海举办，大家一起期待！
 
 ## Contributing
 
@@ -16,6 +16,6 @@ Reactive Group Meetup.
 
 ### 2021-02-04
 
-[云原生的Java与Reactive-技术路线](./202102/slides/)
+[云原生的Java与Reactive-技术路线](./202102/slides/云原生时代的Java与Reactive-技术路线-Kevin.pptx)
 
-[gRPC系列](./202102/slides/)
+[gRPC系列简介](https://github.com/reactivegroup/grpc-example)
