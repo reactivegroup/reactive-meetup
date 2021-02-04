@@ -14,6 +14,14 @@ Reactive Group Meetup.
 
 ## Meetup
 
+### 2020-12-01
+
+[Reactive&RSocket](./202012/slides/Reactive&RSocket.pptx)
+
+### 2021-01-22
+
+[Reactive技术分享](./202101/slides/Reactive技术分享.pptx)
+
 ### 2021-02-04
 
 [云原生时代的Java与Reactive-技术路线](./202102/slides/云原生时代的Java与Reactive-技术路线.pptx)
