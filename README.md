@@ -10,7 +10,11 @@ Reactive Group Meetup.
 
 ## Contributing
 
-[How to contribute](./CONTRIBUTING.md)  
+[How to contribute](./CONTRIBUTING.md) 
+
+## Learning materials
+
+[Reactive学习资料](./学习资料/README.md) 
 
 ## Meetup
 
