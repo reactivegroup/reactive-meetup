@@ -4,9 +4,11 @@
 
 Reactive Group Meetup.
 
-下期预告：
+### 子组
 
-下期Reactive Meetup将会在年后在上海举办，大家一起期待！
+Dubbo SIG Group
+
+Dapr SIG Group 
 
 ## Contributing
 
@@ -43,3 +45,8 @@ Reactive Group Meetup.
 ### 2021-05-28
 
 [DubboMeetup#2](./202105/README.md)
+
+### 2021-06-03
+
+[DubboMeetup#3](./202106/README.md)
+
