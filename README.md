@@ -68,5 +68,9 @@ Dapr SIG Group
 
 ### 2021-07-12
 
-[NettyMeetup#7](./20210712/README.md)
+[NettyMeetup#1](./20210712/README.md)
+
+### 2021-07-19
+
+[NettyMeetup#2](./20210719/README.md)
 
