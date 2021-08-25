@@ -2,13 +2,15 @@
 
 [![Gitter Chat](https://badges.gitter.im/Join%20Chat.svg)](https://groups.google.com/g/reactive-group)
 
-Reactive Group Meetup.
+Reactive技术兴趣小组 Meetup会议资料记录
 
 ### 子组
 
-Dubbo SIG Group
+Reactive SIG Group
 
-Dapr SIG Group 
+RPC SIG Group 
+
+CloudNative SIG Group 
 
 ## Contributing
 
@@ -73,4 +75,8 @@ Dapr SIG Group
 ### 2021-07-19
 
 [NettyMeetup#2](./20210719/README.md)
+
+___
+
+TODO................................................................
 
